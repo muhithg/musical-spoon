@@ -1,1 +1,3 @@
 This is an example from GitEssential
+
+This is a new line after creating example3md and doing git push etc
